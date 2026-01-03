@@ -89,8 +89,8 @@ The course grade will be determined based on the quality of a project pitch at t
 
 #### Hugging Face and Meta Llama License
 1. Make sure you have a hugging Face account (https://huggingface.co/join).
-2. Go to the [`meta-llama/Llama-3.2-3B-Instruct` model page](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) and fill in the 'COMMUNITY LICENSE AGREEMENT' form at the top of the page to get access to the model (this may take a day or so).
-3. Once you have been granted access to the model, you can navigate to [your Hugging Face profile settings](https://huggingface.co/settings/tokens) to generate an API token (+Create new token). Set the token type to 'Read' and give it a name (e.g., 'LLM4BeSci_Ljubljana2025').
+2. Go to the [`meta-llama/Llama-3.2-3B-Instruct` model page](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) and fill in the 'COMMUNITY LICENSE AGREEMENT' form at the top of the page to get access to the model (this may take a few hours).
+3. Once you have been granted access to the model, you can navigate to [your Hugging Face profile settings](https://huggingface.co/settings/tokens) to generate an API token (+Create new token). Set the token type to 'Read' and give it a name (e.g., 'LLM4BeSci').
 
 #### Google Colab and GitHub Repository
 4. If you do not have a Google account, you will need to create one (this can be deleted after the workshop).
@@ -107,9 +107,9 @@ drive.mount("/content/drive")
 8. Create a second cell in your notebook using the "+ Code" button that appears when you hover your cursor right under the first cell. Copy and run the following code snippet in the second cell of your notebook to clone the GitHub repository to your Google Drive :
 ```
 %cd /content/drive/MyDrive
-!git clone https://github.com/Zak-Hussain/LLM4BeSci_Ljubljana2025
+!git clone https://github.com/Zak-Hussain/LLM4BeSci_Ljubljana2026
 ```
-9. Go back to your Google Drive and navigate to the folder "LLM4BeSci_Ljubljana2025". You should see the directories `day_1`, `day_2`,`day_3`, `day_4`, and `day_5` containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear) for the exercises of each day.
+9. Go back to your Google Drive and navigate to the folder "LLM4BeSci_Ljubljana2026". You should see the directories `day_1`, `day_2`,`day_3`, `day_4`, and `day_5` containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear) for the exercises of each day.
 
 You have now successfully set up your Google Colab environment and cloned the GitHub repository! 
 
