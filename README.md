@@ -8,6 +8,8 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 ### Schedule
 
+**Please note, we will upload the presentation slides at end of the course.** 
+
 #### Day 1
 <font style="font-size:10">09:30 AM - 10:00 AM: Welcome & Intro<br>
 10:00 AM - 11:00 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
