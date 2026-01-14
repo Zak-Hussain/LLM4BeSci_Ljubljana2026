@@ -12,7 +12,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 1
 <font style="font-size:10">09:30 AM - 10:00 AM: Welcome & Intro<br>
-10:00 AM - 11:00 AM: [Talk: Intro to LLMs](day_1/day_1.pdf)<br>
+10:00 AM - 11:00 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
 11:00 AM - 11:15 AM: Break<br>
 11:15 AM - 12:15 PM: Discussion: Find applications in small groups<br>
 12:15 PM - 01:15 PM: Lunch<br>
