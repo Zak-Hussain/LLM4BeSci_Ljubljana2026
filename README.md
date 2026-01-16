@@ -8,7 +8,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 ### Feedback
 
-Please be so kind as to give us feedback on the course (5 min) using this [**survey**](https://forms.gle/cK4RgqbnBBtMW8316). Thank you!
+Please be so kind as to give us feedback on the course using this [**survey**](https://forms.gle/cK4RgqbnBBtMW8316) (5 min). Thank you!
 
 ### Schedule
 
